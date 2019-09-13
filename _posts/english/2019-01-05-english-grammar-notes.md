@@ -1,7 +1,7 @@
 ---
 title: English Grammar Notes
 categories: English
-tags: [Grammar, English]
+tags: [Grammar]
 ---
 
 ## How to
@@ -14,6 +14,9 @@ tags: [Grammar, English]
 -----------------------------------------
 
 ## Learn the Parts of Speech
+There are eight parts of speech: noun, pronoun, verb, adjective, adverb, conjunction,
+interjection.
+
 ### Nouns
 **Nouns** are words that name people, places, things, or ideas.
 
@@ -186,3 +189,5 @@ there are three types of conjunctions, and you'll be learning about them next!
 1. **Coordinating Conjunctions**
 2. **Subordinating Conjunctions**
 3. **Correlative Conjunctions**
+
+## Sentence Structure

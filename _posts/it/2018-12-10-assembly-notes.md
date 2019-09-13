@@ -5,6 +5,7 @@ categories: [it]
 tags: [Assembly, x86_64]
 date: 2018-12-08
 ---
+
 {% include tip.html content="Notes of x86_64 Assembly Language Programming with Ubuntu" %}
 
 ## Why Learn Assembly Langage
@@ -18,6 +19,7 @@ date: 2018-12-08
 
 ## Architecture Overview
 ### Data stroage size
+
 Storage | Size(bits) | Size(bytes)
 --------|------------|------------
  Byte   |   8-bits   |   1 byte
@@ -73,7 +75,7 @@ Overflow | OF | 11 | Used to indicate if the previous operation resulted in an o
  ---------|----------
  Step 1 | 1111 0110
  Step 2 | 1111 0111
- -9(in hex) | F7
+ -9 (in hex) | F7
 
 2. Word Example
    
@@ -93,7 +95,7 @@ Here is my understanding about two's complement.
 ---------|----------
 Step 1   | 1111 0110
 Step 2   | 1111 0111
--9(in hex) | F7
+-9 (in hex) | F7
 
 Similarly, do the same operation for -9.
 
@@ -121,3 +123,4 @@ $$ -1 \times 2^7 + 1 \times 2^6 + 1 \times 2^5 + 1 \times 2^4 +
 So, **-128** or **1000 0000** in two's complement means
 $$  -1 \times 2^7 + 0 \times 2^6 + 0 \times 2^5 + 0 \times 2^4 + 
    0 \times 2^3 + 0 \times 2^2 + 0 \times 2^1 + 0 \times 2^0 $$
+

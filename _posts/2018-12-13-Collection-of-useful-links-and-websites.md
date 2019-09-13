@@ -1,7 +1,7 @@
 ---
 title: Collection of useful links and websites
 categories: others
-date: 2019-02-08
+date: 2019-09-13
 ---
 My collection of good websites.
 
@@ -16,14 +16,17 @@ probability and statistics. (English & Chinese)
 
 ## IT
 ### Docs & News
-- [DevDocs](https://devdocs.io): documentations
-- [Lifewire](https://www.lifewire.com): tips & tutorials
+- [DevDocs](https://devdocs.io): documentations.
+- [Lifewire](https://www.lifewire.com): tips & tutorials.
 - [Discover, collect & vote on the best](https://www.wdstack.com)
 - [Better Dev Link](https://betterdev.link): Weekly links to help you become a
-better developer
+better developer.
+- [Real Python](https://realpyhton.com): Almost aspect about Python.
+
 ### Network
 - [TCP/IP Guide](https://www.tcpipguide.com): for learning network.
 
+    
 ### Unix & Linux
 - [The art of Unix Programming](http://www.catb.org/esr/writings/taoup/html/index.html): Book
 - The UNIX-HEATERS Handbook: book
