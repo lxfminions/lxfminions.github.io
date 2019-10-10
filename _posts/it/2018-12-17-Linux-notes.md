@@ -3,7 +3,7 @@ layout: post
 title: Linux notes
 categories: [it]
 tags: [Linux]
-date: 2019/09/13
+date: 2019/10/10
 ---
 
 ## PackageManage
@@ -29,6 +29,19 @@ date: 2019/09/13
 5. APT: Advaced Package Tool  &  apt: high-level command line interface
 
 ### Arch Linux
+
+1. `pacman -U /path/to/package.pkg.tar.gz` for installing locate package.
+2. `makepkg -si` install app from the *PKGBUILD*.
+
+## LinuxOS
+
+1. Special bits for linux:
+
+| Special Bits | File | Directory |
+| ------------ | ---- | --------- |
+| set-uid bit | execute with the file owner permission | no effect |
+| set-gid bit | execute with the file group permission | any created file in the directory be owned by the directory group |
+| sticky bit (or restricted deletion flag) | no effect | only rename or delete by the owner |
 
 ## SSH
 1. Generate a pair key: `ssh-keygen -t ras -b 4096 -C "comment@example.com"`
